@@ -4,7 +4,7 @@
     <list default="true" id="41c244e9-5555-4960-b2b4-adf07f298250" name="Default" comment="" />
     <ignored path="back.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="41c244e9-5555-4960-b2b4-adf07f298250" time="1385295914301" ignored="false" />
+    <file path="/Gemfile" changelist="41c244e9-5555-4960-b2b4-adf07f298250" time="1385303557029" ignored="false" />
     <file path="/application.rb" changelist="41c244e9-5555-4960-b2b4-adf07f298250" time="1385253039778" ignored="false" />
     <file path="/Dummy.txt" changelist="41c244e9-5555-4960-b2b4-adf07f298250" time="1385253248443" ignored="false" />
     <file path="/posts_controller.rb" changelist="41c244e9-5555-4960-b2b4-adf07f298250" time="1385295827464" ignored="false" />
@@ -52,7 +52,16 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="10" selection-start="237" selection-end="237" vertical-scroll-proportion="0.4987775">
+            <state line="9" column="26" selection-start="157" selection-end="157" vertical-scroll-proportion="0.37408313">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rakefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Rakefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="22" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,6 +83,7 @@
       <list>
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
+        <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
@@ -411,7 +421,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -519,11 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -555,9 +560,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="10" selection-start="237" selection-end="237" vertical-scroll-proportion="0.4987775">
+        <state line="9" column="26" selection-start="157" selection-end="157" vertical-scroll-proportion="0.37408313">
           <folding />
         </state>
       </provider>

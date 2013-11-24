@@ -1,5 +1,6 @@
 GEM
   remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     actionmailer (4.0.0)
       actionpack (= 4.0.0)
@@ -120,11 +121,14 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 1.2)
   jquery-rails
+  rack
   rack-cors
   rails (= 4.0.0)
+  rake
   sass-rails (~> 4.0.0)
   sdoc
   shelly-dependencies
   sqlite3
+  thin
   turbolinks
   uglifier (>= 1.3.0)

@@ -7,6 +7,12 @@ group :production do
   gem 'shelly-dependencies'
 end
 
+source :rubygems
+gem 'rack'
+gem 'rake'
+gem 'thin'
+# end shelly
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 

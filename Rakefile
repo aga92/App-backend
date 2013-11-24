@@ -4,3 +4,8 @@
 require File.expand_path('../config/application', __FILE__)
 
 Back::Application.load_tasks
+
+namespace :db do
+  task :migrate
+  task :setup
+end
