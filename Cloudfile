@@ -1,14 +1,13 @@
+firstbackendapp:
   environment: production
   ruby_version: 2.0.0
   monitoring_email: agata.maciocha@gmail.com
   domains:
-    - www.example.com
+    - firstbackendapp.shellyapp.com
     - "*.example.com"
   servers:
     app1:
-      size: small
-      thin: 2
-      whenever: on
-      delayed_job: 1
+      size: large
+      thin: 4
       databases:
         - postgresql
